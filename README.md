@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋 Soy Arturo Álvarez</h1>
 
 <p align="center">
-[<img align="center" src="/mnt/data/FotoGitHub.jpeg" alt="Arturo Álvarez" width="100%">](https://github.com/ArturoAlvarezY/overviewPhoto/blob/main/FotoGitHub.jpeg)
+![Arturo's picture](https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg)
 </p>
 
 <p align="center">
