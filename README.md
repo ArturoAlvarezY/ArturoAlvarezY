@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋 Soy Arturo Álvarez</h1>
 
 <p align="center">
-![Arturo's picture](https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg)
+  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" />
 </p>
 
 <p align="center">
@@ -26,14 +26,12 @@ Hola! Soy Arturo Álvarez, un apasionado desarrollador que siempre busca ser la 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img width="12" /
 </div>
 
 ### Conéctate Conmigo
-  <a href="arturoavilamarketing@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<a href="mailto:arturoavilamarketing@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
