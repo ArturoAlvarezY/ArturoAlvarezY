@@ -17,13 +17,6 @@ Hola! Soy Arturo Álvarez, un apasionado desarrollador que siempre busca ser la 
 "Ser premiado individualmente es genial, pero es aún más grandioso triunfar con tus colegas." 🤝
 "Ser mi mejor versión cada día para sorprenderme a mí mismo de ayer." 💪
 
-### Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
 ### Tecnologías y Herramientas
 
 <div align="left">
