@@ -1,8 +1,9 @@
 <h1 align="center">Hola! 👋 Soy Arturo Álvarez</h1>
 
-<p align="center">
-  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" />
-</p>
+<div align="center">
+  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" height="200" width="200" />
+</div>
+
 
 <p align="center">
   <strong>Venezolano 🇻🇪, residente en Asturias 🇪🇸</strong><br>
