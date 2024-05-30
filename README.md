@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋 Soy Arturo Álvarez</h1>
 
 <div align="center">
-  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" height="200" width="200" />
+  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" height="400" width="300" />
 </div>
 
 
