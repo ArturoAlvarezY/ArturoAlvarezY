@@ -14,8 +14,8 @@
 
 Hola! Soy Arturo Álvarez, un apasionado desarrollador que siempre busca ser la mejor versión de sí mismo cada día. 🌟
 
-"El agua se adapta a cualquier recipiente, no tiene forma, tienes que ser como el agua." 💧
-"Ser premiado individualmente es genial, pero es aún más grandioso triunfar con tus colegas." 🤝
+"El agua se adapta a cualquier recipiente, no tiene forma, tienes que ser como el agua." 💧 <br>
+"Ser premiado individualmente es genial, pero es aún más grandioso triunfar con tus colegas." 🤝 <br>
 "Ser mi mejor versión cada día para sorprenderme a mí mismo de ayer." 💪
 
 ### Tecnologías y Herramientas
