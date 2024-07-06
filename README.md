@@ -54,4 +54,5 @@ Nacionalidades con las que he colaborado 🤩
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="30" alt="España" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="30" alt="Ucrania" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg" height="30" alt="Cuba" />
 </div>
