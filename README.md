@@ -42,7 +42,7 @@ Uno de mis sueños es poder colaborar con las personas de todas las naciones del
 
 Nacionalidades con las que he colaborado 🤩
 
-<div align="left">
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg" height="30" alt="Venezuela" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" height="30" alt="Colombia" />
@@ -54,6 +54,7 @@ Nacionalidades con las que he colaborado 🤩
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" height="30" alt="España" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="30" alt="Ucrania" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg" height="30" alt="Cuba" />
   <img width="12" />
 </div>
