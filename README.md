@@ -68,10 +68,8 @@ Nacionalidades con las que he colaborado 🤩
 </div>
 ### Balance de Lenguajes de Programación
 
-Lenguajes de programación que más he utilizado en mis proyectos:
-
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAlvarezY&layout=compact&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAlvarezY&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=ff79c6&icon_color=ff79c6&text_color=c9d1d9&bg_color=282a36)
 
 </div>
