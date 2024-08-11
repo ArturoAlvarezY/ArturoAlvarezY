@@ -66,3 +66,12 @@ Nacionalidades con las que he colaborado 🤩
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" height="30" alt="Palestina" />
 </div>
+### Balance de Lenguajes de Programación
+
+Lenguajes de programación que más he utilizado en mis proyectos:
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoAlvarezY&layout=compact&langs_count=8)
+
+</div>
