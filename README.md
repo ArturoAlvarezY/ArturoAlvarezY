@@ -1,14 +1,5 @@
 <h1 align="center">Hola! 👋 Soy Arturo Álvarez</h1>
 
-<div align="center">
-  <img src="https://github.com/ArturoAlvarezY/overviewPhoto/raw/main/FotoGitHub.jpeg" alt="Foto de Arturo Álvarez" height="300" width="400" />
-</div>
-
-<p align="center">
-  <strong>Venezolano 🇻🇪, residente en Asturias 🇪🇸</strong><br>
-  <em>Poniéndole sabor a la programación 🌶️</em>
-</p>
-
 ### Sobre Mí
 
 Hola! Soy Arturo Álvarez, un apasionado desarrollador que siempre busca ser la mejor versión de sí mismo cada día. 🌟
